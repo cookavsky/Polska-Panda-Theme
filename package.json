@@ -1,0 +1,26 @@
+{
+    "name": "cookavsky",
+    "displayName": "New Polska Panda Theme",
+    "description": "For Everyone, who like green.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "New Polska Panda Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/New Polska Panda Theme.json"
+            }
+        ],
+        "colors": [
+            {
+                "activityBarBadge.background": "#1e1e1e"
+            }
+        ]
+    }
+}
