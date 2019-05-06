@@ -3,6 +3,8 @@
 
 ## Table of contents
 * [Getting Started](#getting-started)
+* [Installing](#installing)
+* [Technology](#technology)
 * [Screenshots](#screenshots)
 * [Acknowledgments](#acknowledgments)
 * [Status](#status)
