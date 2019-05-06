@@ -1,13 +1,31 @@
-# README
-## This is the README for your extension "cookavsky"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Polska Panda Theme - VScode cookavsky
+**_For Everyone, who likes green. My own theme in VScode. Change Dark (Visual Studio) in Polska-Panda-Theme._**
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Table of contents
+* [Getting Started](#getting-started)
+* [Screenshots](#screenshots)
+* [Acknowledgments](#acknowledgments)
+* [Status](#status)
+* [Author](#author)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Getting Started
+I created own theme in VScode, because I did not find perfect theme. Always something did not like my. My favorite color is green, in my theme is a lot a green. It is works in my VScode Insiders, which always updates.
 
-**Enjoy!**
+## Installing
+Download zip, and extract. Cut folder and put in to: C:/Program Files/Microsoft VS Code Insiders/resources/app/extensions
+Then turn on VScode. Open File > Preferences > Color Themes and pick your color theme.
+
+## Technology
+* Visual Studio Code - all version -
+
+## Screenshots
+![Example screenshot](./themes/screencapture.jpg)
+
+## Acknowledgments
+* Go to [New](./themes/new). In this file is everything describe, what I changed.
+
+## Status
+Finished.
+
+## Author
+Created by **_cookavsky_** - for friends Polska Panda.
